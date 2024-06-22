@@ -1,0 +1,15 @@
+div{
+    width:200px;
+    height:200px;
+    background-color: bisque;
+    transition: all 2s steps(5) 0.5s;
+    position:relative;
+    top: 100px;
+    left:100px;
+}
+#one:hover{
+    background-color: blue;
+    color: aqua;
+    font-family:cursive;
+    transform:rotate(90deg)
+}
