@@ -1,0 +1,12 @@
+body{
+    height: 100px;
+    width:100%;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    background: linear-gradient(to right,blue,red);
+}
+form{
+    width: 25px;
+    height: 28px;
+}
