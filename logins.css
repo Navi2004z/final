@@ -18,3 +18,8 @@ body{
     background-color:transparent;
     color:aliceblue;
     text-align:center;}
+div{
+    background-color:rgb(187, 170, 186);
+    text-align:center;
+    left:20px;
+}
