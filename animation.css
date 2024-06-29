@@ -1,0 +1,21 @@
+#one{
+    width:100px;
+    height:100px;
+    background-color: green;
+    animation-name:myanime;
+    animation-duration: 2s;
+    animation-delay: 0.5s;
+    position:relative;
+    animation: iteration count 2%;
+    animation-timing-function: linear;
+    transition: all 0.1s;
+    
+}
+@keyframes myanime{
+   0%{background-color:purple;}
+   25%{background-color: red;}
+   50%{background-color: blueviolet;}
+   75%{background-color: cornflowerblue;}
+   100%{background-color: chartreuse;}
+
+}
